@@ -1,0 +1,16 @@
+E:\book\Visual Studio projects\Projects\OGLGame\OGLGame\bin\Debug\OGLGame.exe
+E:\book\Visual Studio projects\Projects\OGLGame\OGLGame\bin\Debug\OGLGame.pdb
+E:\book\Visual Studio projects\Projects\OGLGame\OGLGame\obj\x86\Debug\OGLGame.csprojResolveAssemblyReference.cache
+E:\book\Visual Studio projects\Projects\OGLGame\OGLGame\obj\x86\Debug\OGLGame.Window.resources
+E:\book\Visual Studio projects\Projects\OGLGame\OGLGame\obj\x86\Debug\OGLGame.Properties.Resources.resources
+E:\book\Visual Studio projects\Projects\OGLGame\OGLGame\obj\x86\Debug\OGLGame.csproj.GenerateResource.Cache
+E:\book\Visual Studio projects\Projects\OGLGame\OGLGame\obj\x86\Debug\OGLGame.exe
+E:\book\Visual Studio projects\Projects\OGLGame\OGLGame\obj\x86\Debug\OGLGame.pdb
+C:\Users\Milas\Desktop\OGLGame\OGLGame\obj\x86\Debug\OGLGame.exe
+C:\Users\Milas\Desktop\OGLGame\OGLGame\obj\x86\Debug\OGLGame.pdb
+C:\Users\Milas\Desktop\OGLGame\OGLGame\obj\x86\Debug\OGLGame.csprojResolveAssemblyReference.cache
+C:\Users\Milas\Desktop\OGLGame\OGLGame\obj\x86\Debug\OGLGame.Window.resources
+C:\Users\Milas\Desktop\OGLGame\OGLGame\obj\x86\Debug\OGLGame.Properties.Resources.resources
+C:\Users\Milas\Desktop\OGLGame\OGLGame\obj\x86\Debug\OGLGame.csproj.GenerateResource.Cache
+C:\Users\Milas\Desktop\OGLGame\OGLGame\bin\Debug\OGLGame.exe
+C:\Users\Milas\Desktop\OGLGame\OGLGame\bin\Debug\OGLGame.pdb
